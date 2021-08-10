@@ -7,4 +7,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: kurlinemarie/custom@main
+      with:
+        name: 'MYKEYWORD'
 
